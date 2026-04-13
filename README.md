@@ -1,3 +1,2 @@
 # DCExple1
-Bonjour le monde
-Modification du clone
+Modification a partir du github
